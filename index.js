@@ -23,5 +23,5 @@ return function theFunk() {
     return 'FUNKY!'
   }
 }
-var theFunk = funkyFunction()() 
+var theFunk = funkyFunction()()
 console.log(funkyFunction()())
